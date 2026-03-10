@@ -47,4 +47,4 @@ Relational database design using **Oracle SQL**.
 ## 📫 Contact
 
 📧 Email: greivind01@gmail.com  
-💼 LinkedIn: (add your linkedin here)
+💼 LinkedIn: www.linkedin.com/in/gdiazm14
