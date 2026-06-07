@@ -133,7 +133,7 @@ open_to:    Internship / Práctica Profesional (Aug–Nov 2026)
       </h3>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <p>Institutional asset management system for UCR Sede del Pacífico. Role-based access control with admin-only modules, N-tier architecture, and a React frontend with custom auth hooks to prevent unauthorized API calls.</p>
